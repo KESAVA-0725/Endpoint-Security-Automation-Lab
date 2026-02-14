@@ -2,7 +2,7 @@
 
 ## 🛡️ SOAR–EDR Automated Incident Response Playbook
 
-
+![image](https://github.com/KESAVA-0725/SOAR-EDR-PROJECT-HOME-LAB-/blob/main/images/1-1.png)
 
 This project demonstrates a real-world Security Operations Center (SOC) workflow that integrates an Endpoint Detection & Response (EDR) platform with a Security Orchestration, Automation, and Response (SOAR) solution to detect threats and automatically isolate compromised machines with analyst approval.
 
