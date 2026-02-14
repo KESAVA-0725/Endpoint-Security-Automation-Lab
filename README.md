@@ -2,6 +2,8 @@
 
 ## 🛡️ SOAR–EDR Automated Incident Response Playbook
 
+
+
 This project demonstrates a real-world Security Operations Center (SOC) workflow that integrates an Endpoint Detection & Response (EDR) platform with a Security Orchestration, Automation, and Response (SOAR) solution to detect threats and automatically isolate compromised machines with analyst approval.
 
 The lab simulates an attack, detects it at the endpoint level, triggers automated alerts, requests human approval, and performs controlled containment — just like a modern SOC environment.
