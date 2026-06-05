@@ -1,6 +1,6 @@
 ### SOAR-EDR-PROJECT-HOME-LAB
 
-## 🛡️ SOAR–EDR Automated Incident Response Playbook
+## 🛡️ Endpoint Security Automation Lab
 
 ![image](https://github.com/KESAVA-0725/SOAR-EDR-PROJECT-HOME-LAB-/blob/main/images/1-1.png)
 
