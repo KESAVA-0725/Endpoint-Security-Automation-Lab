@@ -1,4 +1,4 @@
-### SOAR-EDR-PROJECT-HOME-LAB
+
 
 ## 🛡️ Endpoint Security Automation Lab
 
